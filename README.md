@@ -18,7 +18,7 @@
   <tr>
     <td align="center">
       <a href="http://www.youtube.com/@anshyadav648" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@Studybrainzofficial&size=square" alt="Studybrainz Official">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@ANSH YADAV&size=square" alt="ANSH YADAV">
       </a>
     </td>
     <td align="center">
