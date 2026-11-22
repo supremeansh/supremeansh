@@ -58,35 +58,98 @@
 
 ---
 
-<h2 align="center">🛠️ Tech Stack &amp; Tools</h2>
+<h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="45px" height="45px"> Tech Stack</h1>
 
-<p align="center"><b>Languages, AI/ML &amp; Data Science</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,c,pytorch,sklearn&theme=light" alt="Languages and ML" />
-  <br>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/Machine_Learning-0284C7?style=flat-square" alt="Machine Learning" />
-</p>
+<h3 align="center">Languages, AI/ML &amp; Data Science</h3>
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=py&theme=light" width="50" height="50" alt="Python"/><br>Python
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=c&theme=light" width="50" height="50" alt="C"/><br>C
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=pytorch&theme=light" width="50" height="50" alt="PyTorch"/><br>PyTorch
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=sklearn&theme=light" width="50" height="50" alt="Scikit-Learn"/><br>Scikit-Learn
+        </td>
+        <td align="center">
+          <img src="https://cdn.worldvectorlogo.com/logos/numpy-1.svg" width="50" height="50" alt="NumPy"/><br>NumPy
+        </td>
+        <td align="center">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="75" height="50" alt="Pandas"/><br>Pandas
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-<p align="center"><b>Analytics, Visualization &amp; Databases</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mysql,postgres&theme=light" alt="Databases" />
-  <br>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" alt="Tableau" />
-  <img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" alt="Excel" />
-  <img src="https://img.shields.io/badge/Google_Analytics-E37400?style=flat-square&logo=google-analytics&logoColor=white" alt="Google Analytics" />
-</p>
+<h3 align="center">Analytics, Visualization &amp; Databases</h3>
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=mysql&theme=light" width="50" height="50" alt="SQL"/><br>SQL / MySQL
+        </td>
+        <td align="center">
+          <img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="50" height="50" alt="Tableau"/><br>Tableau
+        </td>
+        <td align="center">
+          <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" width="50" height="50" alt="Excel"/><br>MS Excel
+        </td>
+        <td align="center">
+          <img src="https://cdn.worldvectorlogo.com/logos/google-analytics-4.svg" width="50" height="50" alt="Google Analytics"/><br>Google Analytics
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-<p align="center"><b>Web Development &amp; Developer Tools</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,flask,git,github,vscode&theme=light" alt="Web and Tools" />
-</p>
+<h3 align="center">Web Development &amp; Tools</h3>
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=html&theme=light" width="50" height="50" alt="HTML"/><br>HTML
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=css&theme=light" width="50" height="50" alt="CSS"/><br>CSS
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=flask&theme=light" width="50" height="50" alt="Flask"/><br>Flask
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=git&theme=light" width="50" height="50" alt="Git"/><br>Git
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=vscode&theme=light" width="50" height="50" alt="VS Code"/><br>VS Code
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
-<p align="center"><b>Video Editing &amp; Creative Suite</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=pr,ae&theme=light" alt="Creative Suite" />
-</p>
+<h3 align="center">Video Editing &amp; Creative Tools</h3>
+<div align="center">
+  <table>
+    <tbody>
+      <tr>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=pr&theme=light" width="50" height="50" alt="Adobe Premiere Pro"/><br>Premiere Pro
+        </td>
+        <td align="center">
+          <img src="https://skillicons.dev/icons?i=ae&theme=light" width="50" height="50" alt="Adobe After Effects"/><br>After Effects
+        </td>
+      </tr>
+    </tbody>
+  </table>
+</div>
 
 ---
 
